@@ -7,6 +7,9 @@ This syntax highlighter is adapted only for the famous Notepad++ editor on Windo
 
 > (source: [Official Notepad++ website](https://notepad-plus-plus.org/))
 
+## A sample of rendered file with syntax highlighter
+![Sample screenshot](sample-screenshot.png) |
+-------------------------------------------
 ## How to configure the syntax highlighter?
 1. Donwload the "**algo-fr-highlighter.xml**"
 2. Open Notepad++ editor
