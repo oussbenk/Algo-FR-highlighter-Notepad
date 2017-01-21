@@ -11,9 +11,9 @@ This syntax highlighter is adapted only for the famous Notepad++ editor on Windo
 ![Sample screenshot](sample-screenshot.png) |
 -------------------------------------------
 ## How to configure the syntax highlighter?
-1. Donwload the "**algo-fr-highlighter.xml**"
+1. Donwload the "**algo-fr-highlighter.xml**" file
 2. Open Notepad++ editor
-3. GO to "`Language`>`Define Your Language`" menu
+3. Go to "`Language`>`Define Your Language`" menu
 4. Click the "`Import...`" button in the popup window
 5. Select the downloaded file ("algo-fr-highlighter.xml")
 
