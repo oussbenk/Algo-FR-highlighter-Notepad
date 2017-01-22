@@ -47,3 +47,6 @@ This syntax highlighter is adapted only for the famous Notepad++ editor on Windo
 `<-` `:` `,` `(` `)` `[` `]` `=` `>` `<` `<=` `>=` `DIV` `MOD` `+` `-` `!` `*` `.`
 ### Strings delimiters
 `""`
+<hr/>
+## Notes
+**Last tested version of Notepad++** : v 7.2.2 (32-bit) 
